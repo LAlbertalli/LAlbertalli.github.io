@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gridentio_new/static/css/main.79e85b90.chunk.css",
+    "main.js": "/gridentio_new/static/js/main.4ec00883.chunk.js",
+    "main.js.map": "/gridentio_new/static/js/main.4ec00883.chunk.js.map",
+    "runtime-main.js": "/gridentio_new/static/js/runtime-main.376c419a.js",
+    "runtime-main.js.map": "/gridentio_new/static/js/runtime-main.376c419a.js.map",
+    "static/js/2.5a8df08e.chunk.js": "/gridentio_new/static/js/2.5a8df08e.chunk.js",
+    "static/js/2.5a8df08e.chunk.js.map": "/gridentio_new/static/js/2.5a8df08e.chunk.js.map",
+    "index.html": "/gridentio_new/index.html",
+    "precache-manifest.1bc8077c4049606a76629676f865e0bc.js": "/gridentio_new/precache-manifest.1bc8077c4049606a76629676f865e0bc.js",
+    "service-worker.js": "/gridentio_new/service-worker.js",
+    "static/css/main.79e85b90.chunk.css.map": "/gridentio_new/static/css/main.79e85b90.chunk.css.map",
+    "static/js/2.5a8df08e.chunk.js.LICENSE": "/gridentio_new/static/js/2.5a8df08e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.376c419a.js",
+    "static/js/2.5a8df08e.chunk.js",
+    "static/css/main.79e85b90.chunk.css",
+    "static/js/main.4ec00883.chunk.js"
+  ]
+}
