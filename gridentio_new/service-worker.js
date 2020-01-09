@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gridentio_new/precache-manifest.980a8bcc02307f7c14b99eed3ed943f8.js"
+  "/gridentio_new/precache-manifest.16fc97273eb78d12f0e0d950dc756105.js"
 );
 
 self.addEventListener('message', (event) => {
